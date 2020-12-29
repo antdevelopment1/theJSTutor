@@ -1,0 +1,13 @@
+Data Types - Your Lego Blocks
+    Data Types - Primitive and Non Primitive
+        Primitive Data Types
+            String
+            Number
+            Boolean
+            Null
+            Undefined
+            Symbol 
+        Non Primitive Data Types
+            Array
+            Object
+            Function

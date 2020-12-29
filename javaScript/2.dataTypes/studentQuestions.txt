@@ -1,0 +1,4 @@
+Student Questions:
+1. Why can't I access certain methods with different data types?
+2. Explain why a standard function starts with function rather than var or let
+3. What is the different between null and undefined
