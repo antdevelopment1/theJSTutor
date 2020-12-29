@@ -1,0 +1,6 @@
+1. What is JavaScript
+2. The History of JavaScript
+3. What Can You Do Vs What It Can't Do]
+4. Who Should Learn JavaScript
+5. Set expectations and say what they should know or be able to do - Metrics - Educational 
+6. Other topics
